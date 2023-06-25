@@ -56,7 +56,7 @@
               <span>Password</span>
               <input type="password" name="password">
             </label>
-            <button type="submit" class="submit" onclick="return confirm('Are you sure to sign up? Set your profile!')">Sign Up Now</button>
+            <button type="submit" class="submit" onclick="return confirm('Are you sure to sign up?')">Sign Up Now</button>
             </form>
           </div>
         </div>

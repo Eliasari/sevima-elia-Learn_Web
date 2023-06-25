@@ -22,7 +22,7 @@
               <div class="container">
                 <div class="wrapper-nav">
                   <div class="title">
-                    <a href="#">Tech Edu</a>
+                    <a href="#">Course.com</a>
                   </div>
                   <div class="links">
                     <ul>
@@ -60,7 +60,7 @@
                 permainan komputer atau aplikasi game. Tugas utama: memelihara sistem dan komponen yang 
                 berhubungan dengan server dll"
             </div>
-            <a href="game.html" class="button">Explore Now</a>
+            <a href="game.php" class="button">Explore Now</a>
           </div>
           <div class="card">
             <div class="header-card">
@@ -73,7 +73,7 @@
             <div class="desc">
                 "Dalam dunia teknologi yang terus berkembang, programmer berperan penting dalam menciptakan inovasi baru, meningkatkan efisiensi di kehidupan yang lebih modern."
             </div>
-            <a href="game.html" class="button">Explore Now</a>
+            <a href="game.php" class="button">Explore Now</a>
           </div>
         </div>
       </div>

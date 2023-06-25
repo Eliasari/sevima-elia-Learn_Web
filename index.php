@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Course.com| Home</title>
+    <title>Course.com | Home</title>
     <link rel="stylesheet" href="main.css" />
   
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -136,7 +136,7 @@
                     <div class="content">
                       <div class="title-btn">
                         <h2>Programmer</h2>
-                        <a href="https://sunenergy.id/blog/panel-surya/" style="text-decoration: none;">
+                        <a href="Hero.php" style="text-decoration: none;">
                         <button class="btn">Read More<i class="fa-solid fa-arrow-right"></i></button></a>
                       </div>
                     </div>
@@ -145,7 +145,7 @@
                     <div class="content">
                       <div class="title-btn">
                         <h2>UI/UX Designer</h2>
-                        <a href="https://www.lensolar.co.id/" style="text-decoration: none;">
+                        <a href=" " style="text-decoration: none;">
                           <button class="btn">Read More<i class="fa-solid fa-arrow-right"></i></button></a>
                       </div>
                     </div>
@@ -154,7 +154,7 @@
                     <div class="content">
                       <div class="title-btn">
                         <h2>Product Manager</h2>
-                        <a href="https://spotlightsolar.com/products" style="text-decoration: none;">
+                        <a href=" " style="text-decoration: none;">
                           <button class="btn">Read More<i class="fa-solid fa-arrow-right"></i></button></a>
                       </div>
                     </div>
@@ -163,7 +163,7 @@
                     <div class="content">
                       <div class="title-btn">
                         <h2>System Administrator</h2>
-                        <a href="https://www.sbmsolartech.com/product/solar-street-light/?matchtype=p&placement=&device=c&network=g&campaignid=18435499644&adgroupid=142158584776&cid=624346036453&keyword=solar%20street%20lamps%20for%20sale&gclid=CjwKCAjwvsqZBhAlEiwAqAHElUX0JpTVcwKlrKlsQWWrddLm5UOYqoK38bbywFtPWpxua0NjOfzG9xoCqfsQAvD_BwE" style="text-decoration: none;">
+                        <a href=" " style="text-decoration: none;">
                           <button class="btn">Read More<i class="fa-solid fa-arrow-right"></i></button></a>
                       </div>
                     </div>
@@ -194,8 +194,8 @@
                 <div class="card_news">
                   <div class="content">
                     <img
-                      src="assets/berita1.png"
-                      alt="B20 Indonesia - Berita"
+                      src="./assets/handbook.jpg"
+                      alt="handbook"
                     />
                     <div class="card-details-news">
                       <h4>
@@ -213,7 +213,7 @@
                   <div class="footer">
                     <div class="btn-baca-selengkapnya">
                       <a
-                        href="https://www.freecodecamp.org/news/what-is-programming-tutorial-for-beginners/"
+                        href=" "
                         >Selengkapnya
                         <i class="fa-solid fa-arrow-right"></i
                       ></a>
@@ -227,8 +227,8 @@
                 <div class="card_news">
                   <div class="content">
                     <img
-                      src="assets/berita2.jpg"
-                      alt="Energi Terbarukan - Berita"
+                      src="./assets/diskusi.jpg"
+                      alt="diskusi"
                     />
                     <div class="card-details-news">
                       <h4>
@@ -261,12 +261,13 @@
                 <div class="card_news">
                   <div class="content">
                     <img
-                      src="assets/berita3.jpg"
-                      alt="Terminal Eksekutif - Berita"
+                      src="./assets/assetproject.jpg"
+                      alt="aset"
                     />
                     <div class="card-details-news">
                       <h4>
-                        Asset-asset Develop Product
+                        Asset-asset Develop Product: Course.com akan memberikan aset yan diperlukan
+                        untuk..
                       </h4>
                       <p>
                         Dalam pengembangan produk, aset pengembangan adalah 
@@ -308,7 +309,7 @@
                   <div class="grid-card-container">
                     <div class="card_event">
                       <div class="content">
-                        <img src="assets/pameransmart4.png" alt="one"/>
+                        <img src="./assets/bootcamp2.jpg" alt="one"/>
                         <div class="card-details-event">
                           <h4>Bootcamp Programmer</h4>
                           <p>Bootcamp programmer adalah program intensif yang dirancang untuk 
@@ -319,7 +320,7 @@
                       </div>
                       <div class="footer">
                         <div class="btn-informasi-selengkapnya" style="margin-top: 8%;">
-                          <a href="https://ekbis.sindonews.com/read/902791/34/libatkan-industri-energi-terbarukan-indonesia-gelar-pameran-teknologi-smart-city-1664842205">Informasi Selengkapnya<i class="fa-solid fa-arrow-right"></i></a>
+                          <a href=" ">Informasi Selengkapnya<i class="fa-solid fa-arrow-right"></i></a>
                         </div>
                         <div class="card-divider-event"></div>
                         <div class="card-date-event">
@@ -329,7 +330,7 @@
                       </div>
                       <div class="card_event">
                         <div class="content">
-                          <img src="assets/pameranteknologiterbarukan.png" alt="two"/>
+                          <img src="./assets/seminar.jpg" alt="two"/>
                           <div class="card-details-event">
                             <h4>Seminar: Tips and Trick</h4>
                             <p>PSeminar tips and trick Design dalam waktu singkat adalah acara yang dirancang 
@@ -340,7 +341,7 @@
                         </div>
                         <div class="footer">
                           <div class="btn-informasi-selengkapnya" style="margin-top: 5%;">
-                            <a href="https://oto.detik.com/event/d-6324859/pameran-teknologi-dan-komponen-kendaraan-listrik-siap-digelar-di-indonesia">Informasi Selengkapnya<i class="fa-solid fa-arrow-right"></i></a>
+                            <a href=" ">Informasi Selengkapnya<i class="fa-solid fa-arrow-right"></i></a>
                           </div>
                           <div class="card-divider-event"></div>
                           <div class="card-date-event">
